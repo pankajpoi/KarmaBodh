@@ -1,4 +1,4 @@
-# karmbodh
+# KarmaBodh
 
 A new Flutter project.
 
