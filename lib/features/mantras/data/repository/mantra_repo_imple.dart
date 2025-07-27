@@ -16,8 +16,4 @@ class MantraRepositoryImpl extends MantraRepository{
     final allmantras=await localDataSource.getAllData();
     return allmantras.where((mantra)=>mantra.title.toLowerCase().contains(query.toLowerCase())).toList();
   }
-
-
-
-
 }

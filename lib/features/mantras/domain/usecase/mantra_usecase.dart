@@ -10,7 +10,7 @@ class GetAllMantras{
 class SearchMantras{
   final MantraRepository repository;
   SearchMantras({required this.repository});
-  Future<List<Mantra>> call(){
-    return repository.searchMantras('title');
+  Future<List<Mantra>> call(String query){
+    return repository.searchMantras(query);
   }
 }
