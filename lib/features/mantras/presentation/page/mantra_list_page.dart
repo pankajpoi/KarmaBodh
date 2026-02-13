@@ -15,67 +15,80 @@ class MantraListPage extends StatefulWidget {
 }
 
 class _MantraListPageState extends State<MantraListPage> {
-  final TextEditingController _controller=TextEditingController();
+  final TextEditingController _controller = TextEditingController();
+
+  @override
   void initState() {
     super.initState();
-    getdata();
+    getData();
   }
-  Future<void> getdata()  async{
-    await Provider.of<MantraProvider>(context, listen: false).fetchmantras();
 
+  Future<void> getData() async {
+    await Provider.of<MantraProvider>(context, listen: false).fetchmantras();
   }
+
   @override
   Widget build(BuildContext context) {
-    final mantradata = Provider.of<MantraProvider>(context);
-    return Scaffold(
-      appBar: AppBar(title: Text('Mantras')),
-      body: Column(
-        children: [
-          SizedBox(
-            height: 10,
-          ),
-          TextField(
-            decoration: InputDecoration(
-                labelText:"Enter the mantra",
-                suffixIcon: Icon(Icons.search),
-                filled: true,
-                fillColor: Colors.grey[300],
-                border: OutlineInputBorder(
-                    borderRadius: BorderRadius.circular(10)
-                )
-            ),
-            onChanged: (text){
-              mantradata.searchmantras(text);
-            },
-          ),
-          SizedBox(
-            height: 10,
-          ),
-          Expanded(
-            child: ListView.builder(
-              itemCount:mantradata.searchmantra.isEmpty?mantradata.mantras.length:mantradata.searchmantra.length,
-              itemBuilder: (context, index) {
-                final data=mantradata.searchmantra.isEmpty?mantradata.mantras:mantradata.searchmantra;
-                return ListTile(
-                  leading: Text("${data[index].id}"),
-                  title: Text("${data[index].title}"),
-                  subtitle: Text("${data[index].desc}"),
-                  onTap: () {
-                    Navigator.push(
-                      context,
-                      MaterialPageRoute(
-                        builder:
-                            (_) => MantraDetailPage(mantra: data[index]),
-                      ),
-                    );
-                  },
-                );
-              },
+    final mantraProvider = Provider.of<MantraProvider>(context);
 
+    final data = mantraProvider.searchmantra.isEmpty
+        ? mantraProvider.mantras
+        : mantraProvider.searchmantra;
+
+    return Scaffold(
+      backgroundColor: const Color(0xFFF9F6F1),
+      appBar: AppBar(
+        title: const Text(
+          'Sacred Mantras',
+          style: TextStyle(fontWeight: FontWeight.w600),
+        ),
+        centerTitle: true,
+        elevation: 0,
+        backgroundColor: Colors.deepOrange.shade400,
+      ),
+      body: Padding(
+        padding: const EdgeInsets.all(12),
+        child: Column(
+          children: [
+            /// 🔍 Search Bar
+            TextField(
+              controller: _controller,
+              onChanged: mantraProvider.searchmantras,
+              decoration: InputDecoration(
+                hintText: "Search mantra...",
+                prefixIcon: const Icon(Icons.search),
+                filled: true,
+                fillColor: Colors.white,
+                border: OutlineInputBorder(
+                  borderRadius: BorderRadius.circular(14),
+                  borderSide: BorderSide.none,
+                ),
+              ),
             ),
-          ),
-        ],
+
+            const SizedBox(height: 12),
+
+            /// 📿 Mantra List
+            Expanded(
+              child: data.isEmpty
+                  ? const Center(
+                child: Text(
+                  "No mantras found",
+                  style: TextStyle(fontSize: 16),
+                ),
+              )
+                  : ListView.builder(
+                itemCount: data.length,
+                itemBuilder: (context, index) {
+                  final mantra = data[index];
+                  return MantraCard(mantra: mantra);
+                },
+              ),
+            ),
+          ],
+        ),
       ),
     );
   }
 }
+

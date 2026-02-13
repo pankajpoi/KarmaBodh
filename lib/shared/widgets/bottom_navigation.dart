@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:karmbodh/features/checklist/presentation/widget/checklist_widget.dart';
 import 'package:karmbodh/features/item_identifier/presentation/page/item_identifier_page.dart';
 import 'package:karmbodh/features/mantras/presentation/page/mantra_list_page.dart';
-
+import 'package:karmbodh/features/ritual_guide/presentation/page/guide_page.dart';
+import 'package:karmbodh/features/checklist/presentation/page/checklist_page.dart';
+import 'package:karmbodh/features/calender.dart';
 class MainScreen extends StatefulWidget {
   const MainScreen({super.key});
 
@@ -12,8 +15,8 @@ class MainScreen extends StatefulWidget {
 class _MainScreenState extends State<MainScreen> {
   int _selecteditem=0;
   final List<Widget> _pages=[
-    Text("calender"),
-    Text("ritual guide"),
+    CalendarMain(),
+    RitualGuideApp(),
     ItemIdentifierScreen(),
     MantraListPage(),
     Text("checklist"),

@@ -14,6 +14,6 @@ class MantraRepositoryImpl extends MantraRepository{
   @override
   Future<List<MantraModel>> searchMantras(String query) async{
     final allmantras=await localDataSource.getAllData();
-    return allmantras.where((mantra)=>mantra.title.toLowerCase().contains(query.toLowerCase())).toList();
+    return allmantras.where((mantra)=>mantra.id.toLowerCase().contains(query.toLowerCase())).toList();
   }
 }
