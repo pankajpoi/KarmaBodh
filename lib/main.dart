@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:karmbodh/shared/widgets/bottom_navigation.dart';
 
 void main() {
+  WidgetsFlutterBinding.ensureInitialized();
   runApp(const MyApp());
 }
 

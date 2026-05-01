@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:karmbodh/features/calendar/presentation/page/calendar_main.dart';
+import 'package:karmbodh/features/calendar/presentation/page/calendar/calendar_page.dart';
 import 'package:karmbodh/features/mantras/presentation/page/mantra_list_page.dart';
 
 class MainScreen extends StatefulWidget {
@@ -12,7 +12,7 @@ class MainScreen extends StatefulWidget {
 class _MainScreenState extends State<MainScreen> {
   int _selecteditem=0;
   final List<Widget> _pages=[
-    CalendarMain(),
+    CalendarPage(),
     Text("ritual guide"),
     Text("item identifier"),
     MantraListPage(),

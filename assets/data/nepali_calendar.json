@@ -1,0 +1,636 @@
+[
+  {
+    "month": "वैशाख",
+    "monthIndex": 1,
+    "year": "२०८३",
+    "days": [
+      {
+        "nepaliDay": "१",
+        "englishDay": "14",
+        "isHoliday": true,
+        "nepaliFullDate": "१ वैशाख २०८३, मंगलवार",
+        "englishFullDate": "April 14, 2026",
+        "event": "मेष संक्रान्ति/नयाँ वर्ष २०८३/बिस्का: जात्रा",
+        "tithi": "द्वादशी",
+        "weekDay": { "en": "Tuesday", "np": "मंगलबार" }
+      },
+      {
+        "nepaliDay": "२",
+        "englishDay": "15",
+        "isHoliday": false,
+        "nepaliFullDate": "२ वैशाख २०८३, बुधवार",
+        "englishFullDate": "April 15, 2026",
+        "event": "विश्व कला दिवस/अन्तर्राष्ट्रिय आरोग्य दिवस/प्रदोष व्रत",
+        "tithi": "त्रयोदशी",
+        "weekDay": { "en": "Wednesday", "np": "बुधबार" }
+      },
+      {
+        "nepaliDay": "३",
+        "englishDay": "16",
+        "isHoliday": false,
+        "nepaliFullDate": "३ वैशाख २०८३, बिहिवार",
+        "englishFullDate": "April 16, 2026",
+        "event": "",
+        "tithi": "चतुर्दशी",
+        "weekDay": { "en": "Thursday", "np": "बिहिबार" }
+      },
+      {
+        "nepaliDay": "४",
+        "englishDay": "17",
+        "isHoliday": false,
+        "nepaliFullDate": "४ वैशाख २०८३, शुक्रवार",
+        "englishFullDate": "April 17, 2026",
+        "event": "मातातीर्थ औंसी",
+        "tithi": "औंसी",
+        "weekDay": { "en": "Friday", "np": "शुक्रबार" }
+      },
+      {
+        "nepaliDay": "५",
+        "englishDay": "18",
+        "isHoliday": false,
+        "nepaliFullDate": "५ वैशाख २०८३, शनिवार",
+        "englishFullDate": "April 18, 2026",
+        "event": "रातो मच्छिन्द्रनाथ रथारोहण/विश्व सम्पदा दिवस/दक्षिण एशियाली ज्योतिष महासंघ स्थापना दिवस",
+        "tithi": "प्रतिपदा",
+        "weekDay": { "en": "Saturday", "np": "शनिबार" }
+      },
+      {
+        "nepaliDay": "६",
+        "englishDay": "19",
+        "isHoliday": false,
+        "nepaliFullDate": "६ वैशाख २०८३, आइतवार",
+        "englishFullDate": "April 19, 2026",
+        "event": "परशुराम जयन्ती",
+        "tithi": "द्वितीया",
+        "weekDay": { "en": "Sunday", "np": "आइतबार" }
+      },
+      {
+        "nepaliDay": "७",
+        "englishDay": "20",
+        "isHoliday": false,
+        "nepaliFullDate": "७ वैशाख २०८३, सोमवार",
+        "englishFullDate": "April 20, 2026",
+        "event": "अक्षय तृतीया व्रत/शिव पार्वती विवाह महोत्सव/राष्ट्रिय याक दिवस",
+        "tithi": "तृतिया",
+        "weekDay": { "en": "Monday", "np": "सोमबार" }
+      },
+      {
+        "nepaliDay": "८",
+        "englishDay": "21",
+        "isHoliday": false,
+        "nepaliFullDate": "८ वैशाख २०८३, मंगलवार",
+        "englishFullDate": "April 21, 2026",
+        "event": "मंगलचौथी व्रत/छन्द दिवस/आद्यगुरु शंकराचार्य जयन्ती/श्री मच्छिन्द्रनाथ रथ यात्रा प्रारम्भ",
+        "tithi": "पञ्चमी",
+        "weekDay": { "en": "Tuesday", "np": "मंगलबार" }
+      },
+      {
+        "nepaliDay": "९",
+        "englishDay": "22",
+        "isHoliday": false,
+        "nepaliFullDate": "९ वैशाख २०८३, बुधवार",
+        "englishFullDate": "April 22, 2026",
+        "event": "रामानुजाचार्य जयन्ती/विश्व पृथ्वी दिवस",
+        "tithi": "षष्ठी",
+        "weekDay": { "en": "Wednesday", "np": "बुधबार" }
+      },
+      {
+        "nepaliDay": "१०",
+        "englishDay": "23",
+        "isHoliday": false,
+        "nepaliFullDate": "१० वैशाख २०८३, बिहिवार",
+        "englishFullDate": "April 23, 2026",
+        "event": "गङ्गा सप्तमी व्रत/विश्व पुस्तक तथा प्रतिलिपि अधिकार दिवस",
+        "tithi": "सप्तमी",
+        "weekDay": { "en": "Thursday", "np": "बिहिबार" }
+      },
+      {
+        "nepaliDay": "११",
+        "englishDay": "24",
+        "isHoliday": false,
+        "nepaliFullDate": "११ वैशाख २०८३, शुक्रवार",
+        "englishFullDate": "April 24, 2026",
+        "event": "लोकतन्त्र दिवस/गोरखकाली पूजा/विश्व खोप सप्ताह",
+        "tithi": "अष्टमी",
+        "weekDay": { "en": "Friday", "np": "शुक्रबार" }
+      },
+      {
+        "nepaliDay": "१२",
+        "englishDay": "25",
+        "isHoliday": false,
+        "nepaliFullDate": "१२ वैशाख २०८३, शनिवार",
+        "englishFullDate": "April 25, 2026",
+        "event": "सीता जयन्ती व्रत/विश्व औलो दिवस/वि.सं. २०७२ सालको महाभूकम्पको सम्झना",
+        "tithi": "नवमी",
+        "weekDay": { "en": "Saturday", "np": "शनिबार" }
+      },
+      {
+        "nepaliDay": "१३",
+        "englishDay": "26",
+        "isHoliday": false,
+        "nepaliFullDate": "१३ वैशाख २०८३, आइतवार",
+        "englishFullDate": "April 26, 2026",
+        "event": "विश्व बौद्धिक सम्पत्ति दिवस",
+        "tithi": "दशमी",
+        "weekDay": { "en": "Sunday", "np": "आइतबार" }
+      },
+      {
+        "nepaliDay": "१४",
+        "englishDay": "27",
+        "isHoliday": false,
+        "nepaliFullDate": "१४ वैशाख २०८३, सोमवार",
+        "englishFullDate": "April 27, 2026",
+        "event": "मोहिनी एकादशी व्रत",
+        "tithi": "एकादशी",
+        "weekDay": { "en": "Monday", "np": "सोमबार" }
+      },
+      {
+        "nepaliDay": "१५",
+        "englishDay": "28",
+        "isHoliday": false,
+        "nepaliFullDate": "१५ वैशाख २०८३, मंगलवार",
+        "englishFullDate": "April 28, 2026",
+        "event": "राष्ट्रिय चिया दिवस/काममा सुरक्षा र स्वास्थ्यको लागि विश्व दिवस",
+        "tithi": "द्वादशी",
+        "weekDay": { "en": "Tuesday", "np": "मंगलबार" }
+      },
+      {
+        "nepaliDay": "१६",
+        "englishDay": "29",
+        "isHoliday": false,
+        "nepaliFullDate": "१६ वैशाख २०८३, बुधवार",
+        "englishFullDate": "April 29, 2026",
+        "event": "प्रदोष व्रत/अन्तर्राष्ट्रिय नृत्य दिवस",
+        "tithi": "त्रयोदशी",
+        "weekDay": { "en": "Wednesday", "np": "बुधबार" }
+      },
+      {
+        "nepaliDay": "१७",
+        "englishDay": "30",
+        "isHoliday": false,
+        "nepaliFullDate": "१७ वैशाख २०८३, बिहिवार",
+        "englishFullDate": "April 30, 2026",
+        "event": "नरसिंह  जयन्ती",
+        "tithi": "चतुर्दशी",
+        "weekDay": { "en": "Thursday", "np": "बिहिबार" }
+      },
+      {
+        "nepaliDay": "१८",
+        "englishDay": "1",
+        "isHoliday": true,
+        "nepaliFullDate": "१८ वैशाख २०८३, शुक्रवार",
+        "englishFullDate": "May 01, 2026",
+        "event": "बुद्ध जयन्ती/उभौली पर्व/चण्डेश्वरी जात्रा/चण्डी पूर्णिमा/गोरखनाथ जयन्ती/कुर्म जयन्ती/वैसाख स्नान समाप्ति/अन्तर्राष्ट्रिय  श्रमिक दिवस",
+        "tithi": "पूर्णिमा",
+        "weekDay": { "en": "Friday", "np": "शुक्रबार" }
+      },
+      {
+        "nepaliDay": "१९",
+        "englishDay": "2",
+        "isHoliday": false,
+        "nepaliFullDate": "१९ वैशाख २०८३, शनिवार",
+        "englishFullDate": "May 02, 2026",
+        "event": "",
+        "tithi": "प्रतिपदा",
+        "weekDay": { "en": "Saturday", "np": "शनिबार" }
+      },
+      {
+        "nepaliDay": "२०",
+        "englishDay": "3",
+        "isHoliday": false,
+        "nepaliFullDate": "२० वैशाख २०८३, आइतवार",
+        "englishFullDate": "May 03, 2026",
+        "event": "विश्व प्रेस स्वतन्त्रता दिवस/विश्व हाँसाे दिवस",
+        "tithi": "द्वितीया",
+        "weekDay": { "en": "Sunday", "np": "आइतबार" }
+      },
+      {
+        "nepaliDay": "२१",
+        "englishDay": "4",
+        "isHoliday": false,
+        "nepaliFullDate": "२१ वैशाख २०८३, सोमवार",
+        "englishFullDate": "May 04, 2026",
+        "event": "",
+        "tithi": "तृतिया",
+        "weekDay": { "en": "Monday", "np": "सोमबार" }
+      },
+      {
+        "nepaliDay": "२२",
+        "englishDay": "5",
+        "isHoliday": false,
+        "nepaliFullDate": "२२ वैशाख २०८३, मंगलवार",
+        "englishFullDate": "May 05, 2026",
+        "event": "मंगलचौथी व्रत",
+        "tithi": "तृतिया",
+        "weekDay": { "en": "Tuesday", "np": "मंगलबार" }
+      },
+      {
+        "nepaliDay": "२३",
+        "englishDay": "6",
+        "isHoliday": false,
+        "nepaliFullDate": "२३ वैशाख २०८३, बुधवार",
+        "englishFullDate": "May 06, 2026",
+        "event": "",
+        "tithi": "चतुर्थी",
+        "weekDay": { "en": "Wednesday", "np": "बुधबार" }
+      },
+      {
+        "nepaliDay": "२४",
+        "englishDay": "7",
+        "isHoliday": false,
+        "nepaliFullDate": "२४ वैशाख २०८३, बिहिवार",
+        "englishFullDate": "May 07, 2026",
+        "event": "किराँत समाज सुधार दिवस",
+        "tithi": "पञ्चमी",
+        "weekDay": { "en": "Thursday", "np": "बिहिबार" }
+      },
+      {
+        "nepaliDay": "२५",
+        "englishDay": "8",
+        "isHoliday": false,
+        "nepaliFullDate": "२५ वैशाख २०८३, शुक्रवार",
+        "englishFullDate": "May 08, 2026",
+        "event": "विश्व रेडक्रस दिवस",
+        "tithi": "षष्ठी",
+        "weekDay": { "en": "Friday", "np": "शुक्रबार" }
+      },
+      {
+        "nepaliDay": "२६",
+        "englishDay": "9",
+        "isHoliday": false,
+        "nepaliFullDate": "२६ वैशाख २०८३, शनिवार",
+        "englishFullDate": "May 09, 2026",
+        "event": "कानून दिवस/गोरखकाली पूजा",
+        "tithi": "सप्तमी",
+        "weekDay": { "en": "Saturday", "np": "शनिबार" }
+      },
+      {
+        "nepaliDay": "२७",
+        "englishDay": "10",
+        "isHoliday": false,
+        "nepaliFullDate": "२७ वैशाख २०८३, आइतवार",
+        "englishFullDate": "May 10, 2026",
+        "event": "",
+        "tithi": "अष्टमी",
+        "weekDay": { "en": "Sunday", "np": "आइतबार" }
+      },
+      {
+        "nepaliDay": "२८",
+        "englishDay": "11",
+        "isHoliday": false,
+        "nepaliFullDate": "२८ वैशाख २०८३, सोमवार",
+        "englishFullDate": "May 11, 2026",
+        "event": "महिला ज्योतिष संघ स्थापना दिवस",
+        "tithi": "नवमी",
+        "weekDay": { "en": "Monday", "np": "सोमबार" }
+      },
+      {
+        "nepaliDay": "२९",
+        "englishDay": "12",
+        "isHoliday": false,
+        "nepaliFullDate": "२९ वैशाख २०८३, मंगलवार",
+        "englishFullDate": "May 12, 2026",
+        "event": "अन्तर्राष्ट्रिय नर्स दिवस",
+        "tithi": "दशमी",
+        "weekDay": { "en": "Tuesday", "np": "मंगलबार" }
+      },
+      {
+        "nepaliDay": "३०",
+        "englishDay": "13",
+        "isHoliday": false,
+        "nepaliFullDate": "३० वैशाख २०८३, बुधवार",
+        "englishFullDate": "May 13, 2026",
+        "event": "अपरा एकादशी व्रत",
+        "tithi": "एकादशी",
+        "weekDay": { "en": "Wednesday", "np": "बुधबार" }
+      },
+      {
+        "nepaliDay": "३१",
+        "englishDay": "14",
+        "isHoliday": false,
+        "nepaliFullDate": "३१ वैशाख २०८३, बिहिवार",
+        "englishFullDate": "May 14, 2026",
+        "event": "प्रदोष व्रत",
+        "tithi": "द्वादशी",
+        "weekDay": { "en": "Thursday", "np": "बिहिबार" }
+      }
+    ]
+  },
+  {
+    "month": "जेठ",
+    "monthIndex": 2,
+    "year": "२०८३",
+    "days": [
+      {
+        "nepaliDay": "१",
+        "englishDay": "15",
+        "isHoliday": false,
+        "nepaliFullDate": "१ जेठ २०८३, शुक्रवार",
+        "englishFullDate": "May 15, 2026",
+        "event": "वृष संक्रान्ति/सिथि चःह्रे/अन्तर्राष्ट्रिय परिवार दिवस",
+        "tithi": "त्रयोदशी",
+        "weekDay": { "en": "Friday", "np": "शुक्रबार" }
+      },
+      {
+        "nepaliDay": "२",
+        "englishDay": "16",
+        "isHoliday": false,
+        "nepaliFullDate": "२ जेठ २०८३, शनिवार",
+        "englishFullDate": "May 16, 2026",
+        "event": "बटसावित्री व्रत/शनि जयन्ती",
+        "tithi": "चतुर्दशी",
+        "weekDay": { "en": "Saturday", "np": "शनिबार" }
+      },
+      {
+        "nepaliDay": "३",
+        "englishDay": "17",
+        "isHoliday": false,
+        "nepaliFullDate": "३ जेठ २०८३, आइतवार",
+        "englishFullDate": "May 17, 2026",
+        "event": "गोसाइकुण्ड स्नान आरम्भ/अधिकमास आरम्भ/मत्स्यनारायण मेला शुरू/विश्व दूरसञ्चार दिवस/विश्व उच्च रक्तचाप दिवस",
+        "tithi": "प्रतिपदा",
+        "weekDay": { "en": "Sunday", "np": "आइतबार" }
+      },
+      {
+        "nepaliDay": "४",
+        "englishDay": "18",
+        "isHoliday": false,
+        "nepaliFullDate": "४ जेठ २०८३, सोमवार",
+        "englishFullDate": "May 18, 2026",
+        "event": "",
+        "tithi": "द्वितीया",
+        "weekDay": { "en": "Monday", "np": "सोमबार" }
+      },
+      {
+        "nepaliDay": "५",
+        "englishDay": "19",
+        "isHoliday": false,
+        "nepaliFullDate": "५ जेठ २०८३, मंगलवार",
+        "englishFullDate": "May 19, 2026",
+        "event": "",
+        "tithi": "तृतिया",
+        "weekDay": { "en": "Tuesday", "np": "मंगलबार" }
+      },
+      {
+        "nepaliDay": "६",
+        "englishDay": "20",
+        "isHoliday": false,
+        "nepaliFullDate": "६ जेठ २०८३, बुधवार",
+        "englishFullDate": "May 20, 2026",
+        "event": "",
+        "tithi": "चतुर्थी",
+        "weekDay": { "en": "Wednesday", "np": "बुधबार" }
+      },
+      {
+        "nepaliDay": "७",
+        "englishDay": "21",
+        "isHoliday": false,
+        "nepaliFullDate": "७ जेठ २०८३, बिहिवार",
+        "englishFullDate": "May 21, 2026",
+        "event": "",
+        "tithi": "पञ्चमी",
+        "weekDay": { "en": "Thursday", "np": "बिहिबार" }
+      },
+      {
+        "nepaliDay": "८",
+        "englishDay": "22",
+        "isHoliday": false,
+        "nepaliFullDate": "८ जेठ २०८३, शुक्रवार",
+        "englishFullDate": "May 22, 2026",
+        "event": "अन्तर्राष्ट्रिय जैविक विविधता दिवस",
+        "tithi": "षष्ठी",
+        "weekDay": { "en": "Friday", "np": "शुक्रबार" }
+      },
+      {
+        "nepaliDay": "९",
+        "englishDay": "23",
+        "isHoliday": false,
+        "nepaliFullDate": "९ जेठ २०८३, शनिवार",
+        "englishFullDate": "May 23, 2026",
+        "event": "",
+        "tithi": "सप्तमी",
+        "weekDay": { "en": "Saturday", "np": "शनिबार" }
+      },
+      {
+        "nepaliDay": "१०",
+        "englishDay": "24",
+        "isHoliday": false,
+        "nepaliFullDate": "१० जेठ २०८३, आइतवार",
+        "englishFullDate": "May 24, 2026",
+        "event": "गोरखकाली पूजा",
+        "tithi": "नवमी",
+        "weekDay": { "en": "Sunday", "np": "आइतबार" }
+      },
+      {
+        "nepaliDay": "११",
+        "englishDay": "25",
+        "isHoliday": false,
+        "nepaliFullDate": "११ जेठ २०८३, सोमवार",
+        "englishFullDate": "May 25, 2026",
+        "event": "",
+        "tithi": "दशमी",
+        "weekDay": { "en": "Monday", "np": "सोमबार" }
+      },
+      {
+        "nepaliDay": "१२",
+        "englishDay": "26",
+        "isHoliday": false,
+        "nepaliFullDate": "१२ जेठ २०८३, मंगलवार",
+        "englishFullDate": "May 26, 2026",
+        "event": "गङ्गादशहरा व्रत/गोसाइकुण्ड स्नान समाप्ति",
+        "tithi": "दशमी",
+        "weekDay": { "en": "Tuesday", "np": "मंगलबार" }
+      },
+      {
+        "nepaliDay": "१३",
+        "englishDay": "27",
+        "isHoliday": false,
+        "nepaliFullDate": "१३ जेठ २०८३, बुधवार",
+        "englishFullDate": "May 27, 2026",
+        "event": "पद्मिनी एकादशी व्रत",
+        "tithi": "एकादशी",
+        "weekDay": { "en": "Wednesday", "np": "बुधबार" }
+      },
+      {
+        "nepaliDay": "१४",
+        "englishDay": "28",
+        "isHoliday": false,
+        "nepaliFullDate": "१४ जेठ २०८३, बिहिवार",
+        "englishFullDate": "May 28, 2026",
+        "event": "प्रदोष व्रत",
+        "tithi": "द्वादशी",
+        "weekDay": { "en": "Thursday", "np": "बिहिबार" }
+      },
+      {
+        "nepaliDay": "१५",
+        "englishDay": "29",
+        "isHoliday": true,
+        "nepaliFullDate": "१५ जेठ २०८३, शुक्रवार",
+        "englishFullDate": "May 29, 2026",
+        "event": "गणतन्त्र दिवस/सगरमाथा दिवस",
+        "tithi": "त्रयोदशी",
+        "weekDay": { "en": "Friday", "np": "शुक्रबार" }
+      },
+      {
+        "nepaliDay": "१६",
+        "englishDay": "30",
+        "isHoliday": false,
+        "nepaliFullDate": "१६ जेठ २०८३, शनिवार",
+        "englishFullDate": "May 30, 2026",
+        "event": "",
+        "tithi": "चतुर्दशी",
+        "weekDay": { "en": "Saturday", "np": "शनिबार" }
+      },
+      {
+        "nepaliDay": "१७",
+        "englishDay": "31",
+        "isHoliday": false,
+        "nepaliFullDate": "१७ जेठ २०८३, आइतवार",
+        "englishFullDate": "May 31, 2026",
+        "event": "विश्व सुर्तीजन्य पदार्थ विरुद्धको दिवस",
+        "tithi": "पूर्णिमा",
+        "weekDay": { "en": "Sunday", "np": "आइतबार" }
+      },
+      {
+        "nepaliDay": "१८",
+        "englishDay": "1",
+        "isHoliday": false,
+        "nepaliFullDate": "१८ जेठ २०८३, सोमवार",
+        "englishFullDate": "June 01, 2026",
+        "event": "विश्व बुवाआमा दिवस",
+        "tithi": "प्रतिपदा",
+        "weekDay": { "en": "Monday", "np": "सोमबार" }
+      },
+      {
+        "nepaliDay": "१९",
+        "englishDay": "2",
+        "isHoliday": false,
+        "nepaliFullDate": "१९ जेठ २०८३, मंगलवार",
+        "englishFullDate": "June 02, 2026",
+        "event": "",
+        "tithi": "द्वितीया",
+        "weekDay": { "en": "Tuesday", "np": "मंगलबार" }
+      },
+      {
+        "nepaliDay": "२०",
+        "englishDay": "3",
+        "isHoliday": false,
+        "nepaliFullDate": "२० जेठ २०८३, बुधवार",
+        "englishFullDate": "June 03, 2026",
+        "event": "",
+        "tithi": "तृतिया",
+        "weekDay": { "en": "Wednesday", "np": "बुधबार" }
+      },
+      {
+        "nepaliDay": "२१",
+        "englishDay": "4",
+        "isHoliday": false,
+        "nepaliFullDate": "२१ जेठ २०८३, बिहिवार",
+        "englishFullDate": "June 04, 2026",
+        "event": "निर्दोष बालबालिका माथि अत्याचार विरुद्धको दिवस/जातीय भेदभाव तथा छुवाछुत उन्मुलन राष्ट्रिय दिवस",
+        "tithi": "चतुर्थी",
+        "weekDay": { "en": "Thursday", "np": "बिहिबार" }
+      },
+      {
+        "nepaliDay": "२२",
+        "englishDay": "5",
+        "isHoliday": false,
+        "nepaliFullDate": "२२ जेठ २०८३, शुक्रवार",
+        "englishFullDate": "June 05, 2026",
+        "event": "विश्व वातावरण दिवस",
+        "tithi": "पञ्चमी",
+        "weekDay": { "en": "Friday", "np": "शुक्रबार" }
+      },
+      {
+        "nepaliDay": "२३",
+        "englishDay": "6",
+        "isHoliday": false,
+        "nepaliFullDate": "२३ जेठ २०८३, शनिवार",
+        "englishFullDate": "June 06, 2026",
+        "event": "",
+        "tithi": "षष्ठी",
+        "weekDay": { "en": "Saturday", "np": "शनिबार" }
+      },
+      {
+        "nepaliDay": "२४",
+        "englishDay": "7",
+        "isHoliday": false,
+        "nepaliFullDate": "२४ जेठ २०८३, आइतवार",
+        "englishFullDate": "June 07, 2026",
+        "event": "रविसप्तमी व्रत",
+        "tithi": "सप्तमी",
+        "weekDay": { "en": "Sunday", "np": "आइतबार" }
+      },
+      {
+        "nepaliDay": "२५",
+        "englishDay": "8",
+        "isHoliday": false,
+        "nepaliFullDate": "२५ जेठ २०८३, सोमवार",
+        "englishFullDate": "June 08, 2026",
+        "event": "गोरखकाली पूजा",
+        "tithi": "अष्टमी",
+        "weekDay": { "en": "Monday", "np": "सोमबार" }
+      },
+      {
+        "nepaliDay": "२६",
+        "englishDay": "9",
+        "isHoliday": false,
+        "nepaliFullDate": "२६ जेठ २०८३, मंगलवार",
+        "englishFullDate": "June 09, 2026",
+        "event": "",
+        "tithi": "नवमी",
+        "weekDay": { "en": "Tuesday", "np": "मंगलबार" }
+      },
+      {
+        "nepaliDay": "२७",
+        "englishDay": "10",
+        "isHoliday": false,
+        "nepaliFullDate": "२७ जेठ २०८३, बुधवार",
+        "englishFullDate": "June 10, 2026",
+        "event": "",
+        "tithi": "दशमी",
+        "weekDay": { "en": "Wednesday", "np": "बुधबार" }
+      },
+      {
+        "nepaliDay": "२८",
+        "englishDay": "11",
+        "isHoliday": false,
+        "nepaliFullDate": "२८ जेठ २०८३, बिहिवार",
+        "englishFullDate": "June 11, 2026",
+        "event": "परमा एकादशी व्रत",
+        "tithi": "एकादशी",
+        "weekDay": { "en": "Thursday", "np": "बिहिबार" }
+      },
+      {
+        "nepaliDay": "२९",
+        "englishDay": "12",
+        "isHoliday": false,
+        "nepaliFullDate": "२९ जेठ २०८३, शुक्रवार",
+        "englishFullDate": "June 12, 2026",
+        "event": "प्रदोष व्रत/विश्व बालश्रम विरुद्ध दिवस",
+        "tithi": "द्वादशी",
+        "weekDay": { "en": "Friday", "np": "शुक्रबार" }
+      },
+      {
+        "nepaliDay": "३०",
+        "englishDay": "13",
+        "isHoliday": false,
+        "nepaliFullDate": "३० जेठ २०८३, शनिवार",
+        "englishFullDate": "June 13, 2026",
+        "event": "",
+        "tithi": "त्रयोदशी",
+        "weekDay": { "en": "Saturday", "np": "शनिबार" }
+      },
+      {
+        "nepaliDay": "३१",
+        "englishDay": "14",
+        "isHoliday": false,
+        "nepaliFullDate": "३१ जेठ २०८३, आइतवार",
+        "englishFullDate": "June 14, 2026",
+        "event": "विश्व रक्तदाता दिवस",
+        "tithi": "चतुर्दशी",
+        "weekDay": { "en": "Sunday", "np": "आइतबार" }
+      }
+    ]
+  }
+]
