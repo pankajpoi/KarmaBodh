@@ -3,21 +3,26 @@ import 'package:karmbodh/features/mantras/domain/entity/mantras_entity.dart';
 class MantraModel extends Mantra{
   MantraModel({
     required String id,
-    required String title,
-    required String desc
-}):super(id: id,title: title,desc: desc);
+    required String sanskrit,
+    required String translation,
+    required List<dynamic> usage
+}):super(id: id,sanskrit: sanskrit,translation: translation,usage: usage);
 
-  factory MantraModel.fromJson(Map<String,dynamic> json){
+  factory MantraModel.fromJson(String id,Map<String,dynamic> json){
     return MantraModel(
-        id: json['id'],
-        title: json['title'],
-        desc: json['desc']);
+        id:id,
+        sanskrit: json['sanskrit'],
+        translation: json['translation'],
+        usage: json['usage']
+    );
+
+
   }
   Map<String,dynamic> toJson(){
     return{
       'id':id,
-      'title':title,
-      'desc':desc
+      'sanskrit':sanskrit,
+      'translation':translation,
     };
   }
 }

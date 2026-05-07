@@ -1,11 +1,13 @@
 
 class Mantra{
   final String id;
-  final String title;
-  final String desc;
+  final String sanskrit;
+  final String translation;
+  final List<dynamic> usage;
   Mantra({
     required this.id,
-    required this.title,
-    required this.desc
+    required this.sanskrit,
+    required this.translation,
+    required this.usage
 });
 }

@@ -1,4 +1,6 @@
 import 'package:karmbodh/features/mantras/data/model/mantra_model.dart';
+import 'package:flutter/services.dart' show rootBundle;
+import 'dart:convert';
 
 
 abstract class MantraLocalDataSource{
@@ -6,22 +8,18 @@ abstract class MantraLocalDataSource{
 }
 
 class MantraLocalDataSourceImpl extends MantraLocalDataSource{
-   static final List<Map<String,dynamic>> dummymantra=[
-     {
-       "id": "1",
-       "title": "Gayatri Mantra",
-       "content": "Om Bhur Bhuvah Swaha..."
-     },
-     {
-       "id": "2",
-       "title": "Maha Mrityunjaya Mantra",
-       "content": "Om Tryambakam Yajamahe..."
-     },
-  ];
+
    @override
    Future<List<MantraModel>> getAllData() async{
-     List<MantraModel> Mantras=dummymantra.map((json)=>MantraModel.fromJson(json)).toList();
-     return Mantras;
+     final jsonString =
+     await rootBundle.loadString('assets/data/mantra.json');
+     print("how are you man");
+
+     final Map<String, dynamic> jsonMap = jsonDecode(jsonString);
+
+     return jsonMap.entries
+         .map((e) => MantraModel.fromJson(e.key, e.value))
+         .toList();
    }
   
 }
