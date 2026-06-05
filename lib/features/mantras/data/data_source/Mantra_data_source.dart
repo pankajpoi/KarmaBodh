@@ -14,7 +14,7 @@ class MantraLocalDataSourceImpl extends MantraLocalDataSource{
    Future<List<MantraModel>> getAllData() async{
      final jsonString =
      await rootBundle.loadString('assets/data/mantra.json');
-     print("how are you man");
+
 
      final Map<String, dynamic> jsonMap = jsonDecode(jsonString);
 

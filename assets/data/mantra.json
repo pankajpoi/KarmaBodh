@@ -2,9 +2,10 @@
   "gayatri mantra" : {
     "sanskrit": "ॐ भूर्भुवः स्वः तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि । धियो यो नः प्रचोदयात् ।।",
     "transliteration": "oṃ bhūr bhuvaḥ svaḥ tat savitur vareṇyaṃ bhargo devasya dhīmahi dhiyo yo naḥ pracodayāt |",
-    "translation": "We meditate on the glory of the Creator; who has created the Universe; who is worthy of worship; who is the embodiment of knowledge and light; who is the remover of all sin and ignorance. May He enlighten our intellect.",
+    "translation":"हामी सृष्टिकर्ताको महिमामा ध्यान गर्छौं; जसले ब्रह्माण्ड सृष्टि गर्नुभएको छ; जो पूजाको योग्य हुनुहुन्छ; जो ज्ञान र प्रकाशको अवतार हुनुहुन्छ; जो सबै पाप र अज्ञानता हटाउने हुनुहुन्छ। उहाँले हाम्रो बुद्धिलाई उज्यालो दिऊन्।",
     "origin": "Rigveda (3.62.10)",
     "source": "Wikipedia",
+    "audio": "assets/audio/gayatri-mantra.mp3",
     "Dedicated to": "Savitr, the Sun deity",
     "meaning": {
       "bhūr": "the physical plane (earth)",
@@ -23,21 +24,54 @@
     },
     "description": "The Gayatri Mantra is one of the most revered and powerful mantras in Hinduism. It is a Vedic chant dedicated to Savitr, the Sun deity, and is believed to invoke divine wisdom and enlightenment. The mantra is often recited during meditation and spiritual practices to purify the mind and soul.",
     "usage": [
-      "Daily meditation and prayer",
-      "Spiritual rituals and ceremonies",
-      "Yoga practices for mental clarity",
-      "Chanting for inner peace and enlightenment"
+      "दैनिक ध्यान र प्रार्थना",
+
+      "आध्यात्मिक अनुष्ठान र समारोह",
+
+      "मानसिक स्पष्टताको लागि योग अभ्यास",
+
+      "आन्तरिक शान्ति र ज्ञानको लागि जप"
     ],
     "significance": "The Gayatri Mantra is considered the essence of the Vedas and is often referred to as the 'mother of all mantras.' It is believed to have the power to purify the mind, enhance concentration, and bring spiritual awakening to those who chant it with devotion and understanding."
+  },
+  "Ganesh Gayatri Mantra": {
+    "sanskrit": "ॐ एकदन्ताय विद्महे वक्रतुण्डाय धीमहि तन्नो दन्तिः प्रचोदयात्॥",
+    "transliteration": "oṃ ekadantāya vidmahe vakratuṇḍāya dhīmahi tannō dantiḥ pracodayāt ||",
+    "translation": "हामी एक-दाँत भएको प्रभुको ध्यान गर्छौं, हामी घुमाउरो सुँडको चिन्तन गर्छौं, त्यो दन्तिले हामीलाई प्रेरणा र ज्ञान देओस्।",
+    "origin": "Ganapati Upanishad",
+    "source": "https://www.hindupedia.com/",
+    "audio": "assets/audio/Ganesh-Gayatri-Mantra.mp3",
+    "Dedicated to": "Lord Ganesha",
+    "meaning": {
+      "ekadantāya": "to the one-tusked Lord (Lord Ganesha)",
+      "vidmahe": "we meditate",
+      "vakratuṇḍāya": "to the curved trunk",
+      "dhīmahi": "we contemplate",
+      "tannō": "may that",
+      "dantiḥ": "Danti (another name for Lord Ganesha)",
+      "pracodayāt": "inspire and enlighten us"
+    },
+    "description": "The Ganesh Gayatri Mantra is a powerful chant dedicated to Lord Ganesha. It is believed to invoke the divine energy of Ganesha, promoting wisdom, removal of obstacles, and enlightenment. The mantra is often recited during meditation and spiritual practices focused on Lord Ganesha.",
+    "usage": [
+      "ध्यान र आध्यात्मिक अभ्यासहरू",
+
+      "भगवान गणेशबाट ज्ञान र बाधाहरू हटाउनको लागि आशीर्वाद माग्ने",
+
+      "आध्यात्मिक विकास र ज्ञान",
+
+      "गणेशसँग सम्बन्धित अनुष्ठानहरूमा जप गर्ने"
+    ],
+    "significance": "The Ganesh Gayatri Mantra holds great significance for devotees of Lord Ganesha. It is considered a means to connect with the divine energy of Ganesha, fostering inner strength, wisdom, and spiritual awakening. The mantra is revered for its ability to purify the mind and soul."
   },
 
 
   "Mahamrityunjaya Mantra": {
     "sanskrit": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् । उर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय माऽमृतात् ।।",
     "transliteration": "oṃ tryambakaṃ yajāmahe sugandhiṃ puṣṭivardhanam | urvārukamiva bandhanān-mṛtyor-mukṣīya mā'mṛtāt ||",
-    "translation": "We worship the three-eyed One (Lord Shiva) who is fragrant and who nourishes all beings; may He liberate us from death for the sake of immortality, just as the cucumber is severed from its bondage to the vine.",
+    "translation": "हामी तीन आँखा भएका भगवान शिवको पूजा गर्छौं जो सुगन्धित हुनुहुन्छ र सबै प्राणीहरूलाई पोषण दिनुहुन्छ; उहाँले हामीलाई अमरताको लागि मृत्युबाट मुक्त गरून्, जसरी काँक्रोलाई दाखको बोटको बन्धनबाट छुटाइएको हुन्छ।",
     "origin": "Rigveda (7.59.12)",
     "source": "Wikipedia",
+    "audio": "assets/audio/mahamrityunjaya-mantra.mp3",
     "Dedicated to": "Lord Shiva",
     "meaning": {
       "tryambakam": "the three-eyed one (Lord Shiva)",
@@ -50,11 +84,15 @@
       "mukṣīya": "may we be liberated",
       "mā'mṛtāt": "for the sake of immortality"
     },
-    "description": "The Mahamrityunjaya Mantra is a powerful Vedic chant dedicated to Lord Shiva. It is believed to have the ability to conquer death and bring about healing and rejuvenation. The mantra is often recited for protection, health, and spiritual growth.",        "usage": [
-      "Healing and health rituals",
-      "Protection from negative influences",
-      "Spiritual growth and meditation",
-      "Chanting for overcoming fears and obstacles"
+    "description": "The Mahamrityunjaya Mantra is a powerful Vedic chant dedicated to Lord Shiva. It is believed to have the ability to conquer death and bring about healing and rejuvenation. The mantra is often recited for protection, health, and spiritual growth.",
+    "usage": [
+      "उपचार र स्वास्थ्य अनुष्ठान",
+
+      "नकारात्मक प्रभावहरूबाट सुरक्षा",
+
+      "आध्यात्मिक विकास र ध्यान",
+
+      "डर र अवरोधहरू पार गर्न जप"
     ],
     "significance": "The Mahamrityunjaya Mantra is considered the essence of the Vedas and is often referred to as the 'mother of all mantras.' It is believed to have the power to purify the mind, enhance concentration, and bring spiritual awakening to those who chant it with devotion and understanding."
   },
@@ -62,7 +100,7 @@
   "Shanti Mantra": {
     "sanskrit": "ॐ शं नो मित्रः शं वरुणः। शं नो भवत्वर्यमा। शं न इन्द्रो बृहस्पतिः। शं नो विष्णुरुरुक्रमः। नमो ब्रह्मणे। नमस्ते वायो। त्वमेव प्रत्यक्षं ब्रह्मासि। त्वामेव प्रत्यक्षम् ब्रह्म वदिष्यामि। ॠतं वदिष्यामि। सत्यं वदिष्यामि। तन्मामवतु। तद्वक्तारमवतु। अवतु माम्। अवतु वक्तारम्। ॐ शान्तिः शान्तिः शान्तिः॥",
     "transliteration": "Oṃ śaṃ no mitraḥ śaṃ varuṇaḥ | śaṃ no bhavatv aryamā | śaṃ na indro bṛhaspatiḥ | śaṃ no viṣṇur urukramaḥ | namo brahmaṇe | namaste vāyo | tvam eva pratyakṣaṃ bhrahmāsi | tvām eva pratyakṣam brahma vadiṣyāmi | ṝtaṃ vadiṣyāmi | satyaṃ vadiṣyāmi | tan mām avatu | tad vaktāram avatu | avatu mām | avatu vaktāram |Oṃ śāntiḥ śāntiḥ śāntiḥ ||",
-    "translation": "Om May Mitra be blissful to us. May Varuna be blissful to us. May Aryaman be blissful to us. May Indra and Brihaspati be blissful to us. May Vishnu, of long strides, be blissful to us. Salutation to Brahman. Salutation to you, O Vayu. You, indeed, are the immediate Brahman. You alone I shall call the direct Brahman. I shall call you righteousness. I shall call you truth. May He protect me. May He protect the reciter. May He protect me. May He protect the reciter. Om, peace, peace, peace!",
+    "translation": "ओम मित्र हाम्रो लागि आनन्दमय रहोस्। वरुण हाम्रो लागि आनन्दमय रहोस्। आर्यमान हाम्रो लागि आनन्दमय रहोस्। इन्द्र र बृहस्पति हाम्रो लागि आनन्दमय रहोस्। लामो पाइला चाल्ने विष्णु हाम्रो लागि आनन्दमय रहोस्। ब्रह्मलाई नमस्कार। हे वायु, तिमीलाई नमस्कार। तिमी नै प्रत्यक्ष ब्रह्म हौ। तिमीलाई नै म प्रत्यक्ष ब्रह्म भन्छु। म तिमीलाई धार्मिकता भन्छु। म तिमीलाई सत्य भन्छु। उसले मेरो रक्षा गरून्। उसले पाठकको रक्षा गरून्। उसले मेरो रक्षा गरून्। उसले पाठकको रक्षा गरून्। ओम, शान्ति, शान्ति, शान्ति!",
     "origin": "Rigveda (7.59.12)",
     "source": "https://www.templepurohit.com/",
     "Dedicated to": "Not dedicated to a specific deity but invokes multiple deities for peace and protection",
@@ -92,13 +130,52 @@
     },
     "description": "The Shanti Mantra is a Vedic chant invoking peace and protection from various deities. It seeks blessings for harmony, well-being, and the removal of obstacles. The mantra is often recited at the beginning and end of spiritual practices to create a peaceful atmosphere.",
     "usage": [
-      "Beginning and ending of spiritual practices",
-      "Seeking peace and harmony",
-      "Protection from negative influences",
-      "Creating a serene atmosphere"
+      "आध्यात्मिक अभ्यासहरूको सुरुवात र अन्त्य",
+
+      "शान्ति र सद्भावको खोजी",
+
+      "नकारात्मक प्रभावहरूबाट सुरक्षा",
+
+      "शान्त वातावरण सिर्जना गर्ने"
     ],
     "significance": "The Shanti Mantra is significant for its invocation of multiple deities to bestow peace and protection. It emphasizes the importance of harmony in one's life and surroundings, making it a vital chant in various Hindu rituals and ceremonies."
   },
+  "Hanuman chalisa" : {
+    "sanskrit": "श्री गुरु चरन सरोज रज, निज मनु मुकुर सूधारि । बरनऊं रघुबर बिमल जसु, जो दायकु फल चारि ॥ बुद्धिहीन तनु जानिके, सुमिरौं पवन-कुमार । बल बुद्धि बिद्या देहु मोहिं, हरहु कलेस विकार ॥ जय हनुमान ज्ञान गुन सागर । जय कपीस तिहुँ लोक उजागर ॥ १ ॥ राम दूत अतुलित बल धामा । अंजनि पुत्र पवनसुत नामा ॥ २ ॥ महावीर विक्रम बजरंगी । कुमति निवार सुमति के संगी ॥ ३ ॥ कंचन बरन बिराज सुबेसा । कानन कुंडल कुंचित केसा ॥ ४ ॥ हाथ बज्र औ ध्वजा बिराजै । काँधे मूँज जनेऊ साजै ॥ ५ ॥ शंकर सुवन केसरी नंदन । तेज प्रताप महा जग बंदन ॥ ६ ॥ विद्यावान गुनी अति चातुर । राम काज करिबे को आतुर ॥ ७ ॥ प्रभु चरित्र सुनिबे को रसिया । राम लखन सीता मन बसिया ॥ ८ ॥ सूक्ष्म रूप धरि सियहिं दिखावा । बिकट रूप धरि लंक जरावा ॥ ९ ॥ भीम रूप धरि असुर संहारे । रामचन्द्र के काज संवारे ॥ १० ॥ लाय सजीवन लखन जियाये । श्रीरघुबीर हरषि उर लाये ॥ ११ ॥ रघुपति कीन्ही बहुत बड़ाई । तुम मम प्रिय भरतहि सम भाई ॥ १२ ॥ सहस बदन तुम्हरो जस गावैं । अस कहि श्रीपति कंठ लगावैं ॥ १३ ॥ सनकादिक ब्रह्मादि मुनीसा । नारद सारद सहित अहीसा ॥ १४ ॥ जम कुबेर दिगपाल जहाँ ते । कबि कोबिद कहि सके कहाँ ते ॥ १५ ॥ तुम उपकार सुग्रीवहि कीन्हा । राम मिलाय राजपद दीन्हा ॥ १६ ॥ तुम्हरो मंत्र बिभीषन माना । लंकेश्वर भए सब जग जाना ॥ १७ ॥ युग सहस्र जोजन पर भानू । लील्यो ताहि मधुर फल जानू ॥ १८ ॥ प्रभु मुद्रिका मेलि मुख माहीं । जलधि लांघि गये अचरज नाहीं ॥ १९ ॥ दुर्गम काज जगत के जेते । सुगम अनुग्रह तुम्हरे तेते ॥ २० ॥ राम दुआरे तुम रखवारे । होत न आज्ञा बिनु पैसारे ॥ २१ ॥ सब सुख लहै तुम्हारी सरना । तुम रक्षक काहू को डरना ॥ २२ ॥ आपन तेज सम्हारो आपै । तीनों लोक हाँक ते काँपै ॥ २३ ॥ भूत पिशाच निकट नहिं आवै । महावीर जब नाम सुनावै ॥ २४ ॥ नासै रोग हरै सब पीरा । जपत निरंतर हनुमत बीरा ॥ २५ ॥ संकट तें हनुमान छुड़ावै । मन क्रम बचन ध्यान जो लावै ॥ २६ ॥ सब पर राम तपस्वी राजा । तिनके काज सकल तुम साजा ॥ २७ ॥ और मनोरथ जो कोई लावै । सोइ अमित जीवन फल पावै ॥ २८ ॥ चारों जुग परताप तुम्हारा । है परसिद्ध जगत उजियारा ॥ २९ ॥ साधु संत के तुम रखवारे । असुर निकंदन राम दुलारे ॥ ३० ॥ अष्टसिद्धि नौ निधि के दाता । अस बर दीन जानकी माता ॥ ३१ ॥ राम रसायन तुम्हरे पासा । सदा रहो रघुपति के दासा ॥ ३२ ॥ तुम्हरे भजन राम को पावै । जनम जनम के दुख बिसरावै ॥ ३३ ॥ अन्त काल रघुबर पुर जावै । जहाँ जन्म हरि-भक्त कहावै ॥ ३४ ॥ और देवता चित्त न धरई । हनुमत सेइ सर्ब सुख करई ॥  ३५ ॥ संकट कटै मिटै सब पीरा । जो सुमिरै हनुमत बलबीरा ॥ ३६ ॥ जय जय जय हनुमान गोसाईं । कृपा करहु गुरुदेव की नाईं ॥ ३७ ॥ जो सत बार पाठ कर कोई । छूटहि बंदि महा सुख होई ॥ ३८ ॥ जो यह पढ़ै हनुमान चालीसा । होय सिद्धि साखी गौरीसा ॥ ३९ ॥ तुलसीदास सदा हरि चेरा । कीजै नाथ हृदय महँ डेरा ॥ ४० ॥ ",
+    "transliteration": "śrī guru charana saroja raja, nija manu mukuru sūdhāri | baranaūṃ raghubara bimal jasu, jo dāyaku phala chāri || buddhi hīna tanu jānike, sumirauṃ pavan-kumāra | bala buddhi bidyā dehu mohiṃ, harahu kalesa vikāra || jaya hanumān jñāna guna sāgara | jaya kapīsa tihuṃ loka ujāgara || 1 || rāma dūta atulita bala dhāmā | añjani putra pavanasuta nāmā || 2 || mahāvīra vikrama bajarangī | kumati nivāra sumati ke sangī || 3 || kanchana barna birāja subesā | kānana kuṇḍala kuñcita kesā || 4 || hāta bajra au dhvajā birājai | kāndhe mūñja janeū sājai || 5 || śaṅkara suvana kesarī nandana | teja pratāpa mahā jaga bandana || 6 || vidyāvāna gunī ati cātura | rāma kāja karibe ko ātura || 7 || prabhu caritra sunibe ko rasiya | rāma lakhana sītā mana basiya || 8 || sūkṣma rūpa dhari siyahi dikhāvā | bikaṭa rūpa dhari laṅka jarāvā || 9 || bhīma rūpa dhari asura saṃhāre | rāmacandra ke kāja saṃvāre || 10 || lāya sajīvana lakhana jiyāye | śrīraghubīra harṣi ura lāye || 11 || raghupati kīnhī bahuta baṛāī | tuma mama priya bharatahi sama bhāī || 12 || sahasa badan tumharo jasa gāvaiṃ | asa kahi śrīpati kaṃṭha lagāvaiṃ || 13 || sanakādika brahmādi munīsā | nārada sārad sahita ahīsā || 14 || jama kubera digapāla jahāṃ te | kabi kobida kahi sake kahāṃ te || 15 || tuma upakāra sugrīvahi kīnhā | rāma milāya rājapada dīnhā || 16 ||   tumharo mantra bibhīṣana mānā | laṅkēśvara bhae saba jaga jānā || 17 || yuga sahasra jōjana para bhānū | līlyō tāhi madhura phala jānū || 18 || prabhu mudrikā meli mukha māhīṃ | jaladhi lāṅghi gaye acaraja nāhīṃ || 19 || durgama kāja jagata kē jēte | sugama anugraha tumhare tēte || 20 || rāma duāre tuma rakhavāre | hota na ājñā binu paisāre || 21 || saba sukha lahai tumhārī saranā | tuma rakṣaka kāhū ko ḍarnā || 22 || āpana teja samhāro āpaī | tīno loka hāṃka tē kāṃpai || 23 || bhūta piśāca nikaṭa nahiṃ āvai | mahāvīra jaba nāma sunāvai || 24 || nāsai rōga harai saba pīrā | japata nirantara hanumata bīrā || 25 || saṃkaṭa tēṃ hanumāna chuṛāvai | mana krama bacana dhyāna jō lāvai || 26 || saba para rāma tapasvī rājā | tinakē kāja sakala tuma sājā || 27 || aura manōratha jō kōī lāvai | soī amita jīvana phala pāvai || 28 || cāroṃ juga paratāpa tumhārā | hai parasiddha jagata ujiārā || 29 || sādhū santa kē tuma rakhavāre | asura nikandana rāma dulāre || 30 || aṣṭasiddhi nau nidhi kē dātā | asa bara dīna jānakī mātā || 31 || rāma rasāyana tumhare pāsā | sadā raho raghupati kē dāsā || 32 || tumhare bhajana rāma kō pāvai | janama janama kē dukha bisarāvai || 33 || anta kāla raghubara pura jāvai | jahāṃ janma hari-bhakta kahāvai || 34 || aura dēvatā citta na dharai | hanumata sei sarba sukha karai ||  35 || saṃkaṭa kaṭai miṭai saba pīrā | jō sumirai hanumata balabīrā || 36 || jaya jaya jaya hanumāna gōsāīṃ | kṛpā karahu gurudēva kī nāīṃ || 37 || jō sata bāra pāṭha kara kōī | chūṭahi bandi mahā sukha hōī || 38 || jō yaha paṛhai hanumāna cālīsā | hōya siddhi sākhī gaurīsā || 39 || tulasīdāsa sadā hari cērā | kījai nātha hṛdaya mahaṃ ḍērā || 40 || ",
+    "translation": "गुरुको चरण कमलको धूलोले, म मेरो मनको ऐना सफा गर्छु। म भगवान रामको शुद्ध महिमा वर्णन गर्छु, जसले जीवनका चार फलहरू (धर्म, अर्थ, काम, मोक्ष) प्रदान गर्दछ। मेरो शरीरलाई ज्ञानरहित थाहा पाएर, म तपाईंलाई सम्झन्छु, हे वायुपुत्र (हनुमान)। मलाई बल, बुद्धि र ज्ञान दिनुहोस्, र मेरा कष्ट र अशुद्धताहरू हटाउनुहोस्। ज्ञान र सद्गुणका सागर, हनुमानको जय होस्! तीन लोकका प्रकाशक, बाँदरहरूका भगवानको जय होस्! ",
+    "origin": "Authored by Tulsidas in the 16th century",
+    "source": "https://hanuman-chalisa.com/",
+    "audio": "assets/audio/Hanuman_chalisa.mp3",
+    "Dedicated to": "Lord Hanuman",
+    "meaning": {
+      "śrī guru charana saroja raja": "With the dust of the lotus feet of the Guru",
+      "nija manu mukuru sūdhāri": "I cleanse the mirror of my mind",
+      "baranaūṃ raghubara bimal jasu": "I narrate the pure glory of Lord Rama",
+      "jo dāyaku phala chāri": "which bestows the four fruits of life (Dharma, Artha, Kama, Moksha)",
+      "buddhi hīna tanu jānike": "Knowing my body to be devoid of wisdom",
+      "sumirauṃ pavan-kumāra": "I remember you, O son of the wind (Hanuman)",
+      "bala buddhi bidyā dehu mohiṃ": "Grant me strength, wisdom, and knowledge",
+      "harahu kalesa vikāra": "and remove my afflictions and impurities",
+      "jaya hanumān jñāna guna sāgara": "Hail Hanuman, ocean of wisdom and virtue",
+      "jaya kapīsa tihuṃ loka ujāgara": "Hail Lord of monkeys, illuminator of the three worlds" ,
+      "aryamā": "Aryaman (deity of hospitality)",
+      "mātariśvā": "Matarishvan (deity of fire)",
+      "sūryaḥ": "Surya (sun deity)"
+    },
+    "description": "The Hanuman Chalisa is a devotional hymn dedicated to Lord Hanuman, composed by the poet-saint Tulsidas in the 16th century. It consists of 40 verses (chalisa) that praise the virtues, strength, and devotion of Hanuman. The hymn is widely recited by devotees to seek Hanuman's blessings for courage, wisdom, and protection from evil.",
+    "usage": [
+      "दैनिक भक्ति पाठ",
+
+      "साहस र शक्ति खोज्दै",
+
+      "नकारात्मक प्रभावहरूबाट सुरक्षा",
+
+      "आध्यात्मिक उत्थान र ध्यान केन्द्रित गर्ने"
+    ],
+    "significance": "The Hanuman Chalisa holds immense significance in Hindu devotion, particularly among devotees of Lord Hanuman. It is believed to invoke Hanuman's divine presence, providing strength, courage, and protection to those who recite it with faith. The hymn is cherished for its poetic beauty and spiritual depth, making it a cornerstone of Hanuman worship."
+  },
+
 
   "Rudra gayatri mantra": {
     "sanskrit": "ॐ तत्पुरुषाय विद्महे महादेवाय धीमहि तन्नो रुद्रः प्रचोदयात् ।।",
@@ -284,31 +361,6 @@
     "significance": "The Saraswati Gayatri Mantra holds great significance for devotees of Goddess Saraswati. It is considered a means to connect with the divine energy of Saraswati, fostering intellectual growth, creativity, and spiritual awakening. The mantra is revered for its ability to purify the mind and soul."
   },
 
-  "Ganesh Gayatri Mantra": {
-    "sanskrit": "ॐ एकदन्ताय विद्महे वक्रतुण्डाय धीमहि तन्नो दन्तिः प्रचोदयात्॥",
-    "transliteration": "oṃ ekadantāya vidmahe vakratuṇḍāya dhīmahi tannō dantiḥ pracodayāt ||",
-    "translation": "We meditate on the one-tusked Lord, we contemplate on the curved trunk, may that Danti inspire and enlighten us.",
-    "origin": "Ganapati Upanishad",
-    "source": "https://www.hindupedia.com/",
-    "Dedicated to": "Lord Ganesha",
-    "meaning": {
-      "ekadantāya": "to the one-tusked Lord (Lord Ganesha)",
-      "vidmahe": "we meditate",
-      "vakratuṇḍāya": "to the curved trunk",
-      "dhīmahi": "we contemplate",
-      "tannō": "may that",
-      "dantiḥ": "Danti (another name for Lord Ganesha)",
-      "pracodayāt": "inspire and enlighten us"
-    },
-    "description": "The Ganesh Gayatri Mantra is a powerful chant dedicated to Lord Ganesha. It is believed to invoke the divine energy of Ganesha, promoting wisdom, removal of obstacles, and enlightenment. The mantra is often recited during meditation and spiritual practices focused on Lord Ganesha.",
-    "usage": [
-      "Meditation and spiritual practices",
-      "Seeking blessings for wisdom and removal of obstacles from Lord Ganesha",
-      "Spiritual growth and enlightenment",
-      "Chanting during Ganesha-related rituals"
-    ],
-    "significance": "The Ganesh Gayatri Mantra holds great significance for devotees of Lord Ganesha. It is considered a means to connect with the divine energy of Ganesha, fostering inner strength, wisdom, and spiritual awakening. The mantra is revered for its ability to purify the mind and soul."
-  },
 
   "om Gan Ganapataye Namah" : {
     "sanskrit": "ॐ गण गणपतये नमः।",
@@ -359,37 +411,7 @@
     "significance": "The Vakratunda Mahakaya Mantra holds great significance for devotees of Lord Ganesha. It is considered a means to connect with the divine energy of Ganesha, fostering inner strength, wisdom, and spiritual awakening. The mantra is revered for its ability to purify the mind and soul."
   },
 
-  "Hanuman chalisa" : {
-    "sanskrit": "श्री गुरु चरन सरोज रज, निज मनु मुकुर सूधारि । बरनऊं रघुबर बिमल जसु, जो दायकु फल चारि ॥ बुद्धिहीन तनु जानिके, सुमिरौं पवन-कुमार । बल बुद्धि बिद्या देहु मोहिं, हरहु कलेस विकार ॥ जय हनुमान ज्ञान गुन सागर । जय कपीस तिहुँ लोक उजागर ॥ १ ॥ राम दूत अतुलित बल धामा । अंजनि पुत्र पवनसुत नामा ॥ २ ॥ महावीर विक्रम बजरंगी । कुमति निवार सुमति के संगी ॥ ३ ॥ कंचन बरन बिराज सुबेसा । कानन कुंडल कुंचित केसा ॥ ४ ॥ हाथ बज्र औ ध्वजा बिराजै । काँधे मूँज जनेऊ साजै ॥ ५ ॥ शंकर सुवन केसरी नंदन । तेज प्रताप महा जग बंदन ॥ ६ ॥ विद्यावान गुनी अति चातुर । राम काज करिबे को आतुर ॥ ७ ॥ प्रभु चरित्र सुनिबे को रसिया । राम लखन सीता मन बसिया ॥ ८ ॥ सूक्ष्म रूप धरि सियहिं दिखावा । बिकट रूप धरि लंक जरावा ॥ ९ ॥ भीम रूप धरि असुर संहारे । रामचन्द्र के काज संवारे ॥ १० ॥ लाय सजीवन लखन जियाये । श्रीरघुबीर हरषि उर लाये ॥ ११ ॥ रघुपति कीन्ही बहुत बड़ाई । तुम मम प्रिय भरतहि सम भाई ॥ १२ ॥ सहस बदन तुम्हरो जस गावैं । अस कहि श्रीपति कंठ लगावैं ॥ १३ ॥ सनकादिक ब्रह्मादि मुनीसा । नारद सारद सहित अहीसा ॥ १४ ॥ जम कुबेर दिगपाल जहाँ ते । कबि कोबिद कहि सके कहाँ ते ॥ १५ ॥ तुम उपकार सुग्रीवहि कीन्हा । राम मिलाय राजपद दीन्हा ॥ १६ ॥ तुम्हरो मंत्र बिभीषन माना । लंकेश्वर भए सब जग जाना ॥ १७ ॥ युग सहस्र जोजन पर भानू । लील्यो ताहि मधुर फल जानू ॥ १८ ॥ प्रभु मुद्रिका मेलि मुख माहीं । जलधि लांघि गये अचरज नाहीं ॥ १९ ॥ दुर्गम काज जगत के जेते । सुगम अनुग्रह तुम्हरे तेते ॥ २० ॥ राम दुआरे तुम रखवारे । होत न आज्ञा बिनु पैसारे ॥ २१ ॥ सब सुख लहै तुम्हारी सरना । तुम रक्षक काहू को डरना ॥ २२ ॥ आपन तेज सम्हारो आपै । तीनों लोक हाँक ते काँपै ॥ २३ ॥ भूत पिशाच निकट नहिं आवै । महावीर जब नाम सुनावै ॥ २४ ॥ नासै रोग हरै सब पीरा । जपत निरंतर हनुमत बीरा ॥ २५ ॥ संकट तें हनुमान छुड़ावै । मन क्रम बचन ध्यान जो लावै ॥ २६ ॥ सब पर राम तपस्वी राजा । तिनके काज सकल तुम साजा ॥ २७ ॥ और मनोरथ जो कोई लावै । सोइ अमित जीवन फल पावै ॥ २८ ॥ चारों जुग परताप तुम्हारा । है परसिद्ध जगत उजियारा ॥ २९ ॥ साधु संत के तुम रखवारे । असुर निकंदन राम दुलारे ॥ ३० ॥ अष्टसिद्धि नौ निधि के दाता । अस बर दीन जानकी माता ॥ ३१ ॥ राम रसायन तुम्हरे पासा । सदा रहो रघुपति के दासा ॥ ३२ ॥ तुम्हरे भजन राम को पावै । जनम जनम के दुख बिसरावै ॥ ३३ ॥ अन्त काल रघुबर पुर जावै । जहाँ जन्म हरि-भक्त कहावै ॥ ३४ ॥ और देवता चित्त न धरई । हनुमत सेइ सर्ब सुख करई ॥  ३५ ॥ संकट कटै मिटै सब पीरा । जो सुमिरै हनुमत बलबीरा ॥ ३६ ॥ जय जय जय हनुमान गोसाईं । कृपा करहु गुरुदेव की नाईं ॥ ३७ ॥ जो सत बार पाठ कर कोई । छूटहि बंदि महा सुख होई ॥ ३८ ॥ जो यह पढ़ै हनुमान चालीसा । होय सिद्धि साखी गौरीसा ॥ ३९ ॥ तुलसीदास सदा हरि चेरा । कीजै नाथ हृदय महँ डेरा ॥ ४० ॥ ",
-    "transliteration": "śrī guru charana saroja raja, nija manu mukuru sūdhāri | baranaūṃ raghubara bimal jasu, jo dāyaku phala chāri || buddhi hīna tanu jānike, sumirauṃ pavan-kumāra | bala buddhi bidyā dehu mohiṃ, harahu kalesa vikāra || jaya hanumān jñāna guna sāgara | jaya kapīsa tihuṃ loka ujāgara || 1 || rāma dūta atulita bala dhāmā | añjani putra pavanasuta nāmā || 2 || mahāvīra vikrama bajarangī | kumati nivāra sumati ke sangī || 3 || kanchana barna birāja subesā | kānana kuṇḍala kuñcita kesā || 4 || hāta bajra au dhvajā birājai | kāndhe mūñja janeū sājai || 5 || śaṅkara suvana kesarī nandana | teja pratāpa mahā jaga bandana || 6 || vidyāvāna gunī ati cātura | rāma kāja karibe ko ātura || 7 || prabhu caritra sunibe ko rasiya | rāma lakhana sītā mana basiya || 8 || sūkṣma rūpa dhari siyahi dikhāvā | bikaṭa rūpa dhari laṅka jarāvā || 9 || bhīma rūpa dhari asura saṃhāre | rāmacandra ke kāja saṃvāre || 10 || lāya sajīvana lakhana jiyāye | śrīraghubīra harṣi ura lāye || 11 || raghupati kīnhī bahuta baṛāī | tuma mama priya bharatahi sama bhāī || 12 || sahasa badan tumharo jasa gāvaiṃ | asa kahi śrīpati kaṃṭha lagāvaiṃ || 13 || sanakādika brahmādi munīsā | nārada sārad sahita ahīsā || 14 || jama kubera digapāla jahāṃ te | kabi kobida kahi sake kahāṃ te || 15 || tuma upakāra sugrīvahi kīnhā | rāma milāya rājapada dīnhā || 16 ||   tumharo mantra bibhīṣana mānā | laṅkēśvara bhae saba jaga jānā || 17 || yuga sahasra jōjana para bhānū | līlyō tāhi madhura phala jānū || 18 || prabhu mudrikā meli mukha māhīṃ | jaladhi lāṅghi gaye acaraja nāhīṃ || 19 || durgama kāja jagata kē jēte | sugama anugraha tumhare tēte || 20 || rāma duāre tuma rakhavāre | hota na ājñā binu paisāre || 21 || saba sukha lahai tumhārī saranā | tuma rakṣaka kāhū ko ḍarnā || 22 || āpana teja samhāro āpaī | tīno loka hāṃka tē kāṃpai || 23 || bhūta piśāca nikaṭa nahiṃ āvai | mahāvīra jaba nāma sunāvai || 24 || nāsai rōga harai saba pīrā | japata nirantara hanumata bīrā || 25 || saṃkaṭa tēṃ hanumāna chuṛāvai | mana krama bacana dhyāna jō lāvai || 26 || saba para rāma tapasvī rājā | tinakē kāja sakala tuma sājā || 27 || aura manōratha jō kōī lāvai | soī amita jīvana phala pāvai || 28 || cāroṃ juga paratāpa tumhārā | hai parasiddha jagata ujiārā || 29 || sādhū santa kē tuma rakhavāre | asura nikandana rāma dulāre || 30 || aṣṭasiddhi nau nidhi kē dātā | asa bara dīna jānakī mātā || 31 || rāma rasāyana tumhare pāsā | sadā raho raghupati kē dāsā || 32 || tumhare bhajana rāma kō pāvai | janama janama kē dukha bisarāvai || 33 || anta kāla raghubara pura jāvai | jahāṃ janma hari-bhakta kahāvai || 34 || aura dēvatā citta na dharai | hanumata sei sarba sukha karai ||  35 || saṃkaṭa kaṭai miṭai saba pīrā | jō sumirai hanumata balabīrā || 36 || jaya jaya jaya hanumāna gōsāīṃ | kṛpā karahu gurudēva kī nāīṃ || 37 || jō sata bāra pāṭha kara kōī | chūṭahi bandi mahā sukha hōī || 38 || jō yaha paṛhai hanumāna cālīsā | hōya siddhi sākhī gaurīsā || 39 || tulasīdāsa sadā hari cērā | kījai nātha hṛdaya mahaṃ ḍērā || 40 || ",
-    "translation": "With the dust of the lotus feet of the Guru, I cleanse the mirror of my mind. I narrate the pure glory of Lord Rama, which bestows the four fruits of life (Dharma, Artha, Kama, Moksha). Knowing my body to be devoid of wisdom, I remember you, O son of the wind (Hanuman). Grant me strength, wisdom, and knowledge, and remove my afflictions and impurities. Hail Hanuman, ocean of wisdom and virtue! Hail Lord of monkeys, illuminator of the three worlds! ... (and so on for the entire Hanuman Chalisa)",
-    "origin": "Authored by Tulsidas in the 16th century",
-    "source": "https://hanuman-chalisa.com/",
-    "Dedicated to": "Lord Hanuman",
-    "meaning": {
-      "śrī guru charana saroja raja": "With the dust of the lotus feet of the Guru",
-      "nija manu mukuru sūdhāri": "I cleanse the mirror of my mind",
-      "baranaūṃ raghubara bimal jasu": "I narrate the pure glory of Lord Rama",
-      "jo dāyaku phala chāri": "which bestows the four fruits of life (Dharma, Artha, Kama, Moksha)",
-      "buddhi hīna tanu jānike": "Knowing my body to be devoid of wisdom",
-      "sumirauṃ pavan-kumāra": "I remember you, O son of the wind (Hanuman)",
-      "bala buddhi bidyā dehu mohiṃ": "Grant me strength, wisdom, and knowledge",
-      "harahu kalesa vikāra": "and remove my afflictions and impurities",
-      "jaya hanumān jñāna guna sāgara": "Hail Hanuman, ocean of wisdom and virtue",
-      "jaya kapīsa tihuṃ loka ujāgara": "Hail Lord of monkeys, illuminator of the three worlds" ,
-      "aryamā": "Aryaman (deity of hospitality)",
-      "mātariśvā": "Matarishvan (deity of fire)",
-      "sūryaḥ": "Surya (sun deity)"
-    },
-    "description": "The Hanuman Chalisa is a devotional hymn dedicated to Lord Hanuman, composed by the poet-saint Tulsidas in the 16th century. It consists of 40 verses (chalisa) that praise the virtues, strength, and devotion of Hanuman. The hymn is widely recited by devotees to seek Hanuman's blessings for courage, wisdom, and protection from evil.",
-    "usage": [
-      "Daily devotional recitation",
-      "Seeking courage and strength",
-      "Protection from negative influences",
-      "Spiritual upliftment and focus"
-    ],
-    "significance": "The Hanuman Chalisa holds immense significance in Hindu devotion, particularly among devotees of Lord Hanuman. It is believed to invoke Hanuman's divine presence, providing strength, courage, and protection to those who recite it with faith. The hymn is cherished for its poetic beauty and spiritual depth, making it a cornerstone of Hanuman worship."
-  },
+
 
   "Bajrang Bali Mantra": {
     "sanskrit": "ॐ हनुमते नमः।",

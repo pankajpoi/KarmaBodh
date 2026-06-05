@@ -31,17 +31,20 @@ dependencies:
   flutter:
     sdk: flutter
   provider: ^6.1.5
-  image_picker: ^1.1.2
   http: ^1.6.0
-  flutter_bs_ad_calendar: ^1.0.4
-  nepali_calendar_plus: ^0.0.5
-
   speech_to_text: ^7.3.0
+  just_audio: ^0.10.5
+  google_fonts: ^6.2.1
+  sqflite: ^2.4.2
+  path: ^1.9.1
 
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
+  nepali_calendar_flutter: ^1.0.3
+  nepali_utils: ^3.0.8
+  flutter_bs_ad_calendar: ^1.0.4
 
 dev_dependencies:
   flutter_test:
@@ -67,7 +70,9 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-      - 'assets/data/mantra.json'
+    - assets/data/
+    - assets/audio/
+    - 'assets/data/mantra.json'
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
